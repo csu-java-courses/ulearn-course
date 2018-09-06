@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+    <title>1.3.1 ﻿Выбираем среду разработки</title>
+    <id>82089c1f-c6d0-48e0-b34d-70d9a8703aee</id>
+
+    <youtube>jXF2RUGyrh0</youtube>
+
+    <md>
+        ### Ставим
+
+        Выберите и установите себе среду разработки. Ссылки для скачивания:
+
+        * IntelliJ IDEA — [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
+        * NetBeans — [https://netbeans.org/downloads/](https://netbeans.org/downloads/)
+        * Eclipse — [https://eclipse.org/downloads/](https://eclipse.org/downloads/)
+    </md>
+</Lesson>

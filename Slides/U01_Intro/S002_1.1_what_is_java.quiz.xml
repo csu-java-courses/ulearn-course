@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="878cc975-25ec-472f-ad21-885420c21883" scoringGroup="homework" tries="2">
+    <title>1.1 Контрольные вопросы</title>
+
+    <choice id="writeOnce" multiple="false" shuffle="true" maxScore="1">
+        <text>Что означает декларируемый Java принцип "Write once, run anywhere" ?</text>
+        <item id="1" isCorrect="true">Скомпилированная Java-программа может быть запущена на любой платформе, где есть JVM.</item>
+        <item id="2" isCorrect="false">Java-программа может быть скомпилирована в исполняемый файл под любую платформу.</item>
+        <item id="3" isCorrect="false">Java-программа может быть запущена из исходников на любой платформе, где есть интерпретатор Java.</item>
+    </choice>
+
+    <choice id="bytecode" multiple="false" shuffle="true" maxScore="1">
+        <text>Как называется двоичный формат, который понимает виртуальная машина Java?</text>
+        <item id="1" isCorrect="true">Bytecode (байткод)</item>
+        <item id="2" isCorrect="false">Virtual code (виртуальный код)</item>
+        <item id="3" isCorrect="false">Intermediate language (промежуточный язык)</item>
+        <item id="4" isCorrect="false">Abstract syntax tree (абстрактное синтаксическое дерево)</item>
+    </choice>
+
+</Quiz>

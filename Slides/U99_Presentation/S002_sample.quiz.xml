@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="9541d287-e45f-4839-8ba1-025c878da64c" scoringGroup="laboratory" tries="3">
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="9541d287-e45f-4839-8ba1-025c878da64c" tries="3">
   <title>Пример теста</title>
   <p xml:space="preserve">
 Можно использовать TeX: $\Theta(n)$
