@@ -8,9 +8,9 @@
 
 # Инструменты
 Для выполнения задач необходимо установить следующий набор инструментов:
-* [jdk 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - виртуальная машина Java (JVM) с набором инструментов для разработчика.
-* [git](https://git-scm.com/) - система контроля версий
-* [IntelliJ Idea](https://www.jetbrains.com/idea/) - IDE для разработки на Java
++ [jdk 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - виртуальная машина Java (JVM) с набором инструментов для разработчика.
++ [git](https://git-scm.com/) - система контроля версий
++ [IntelliJ Idea](https://www.jetbrains.com/idea/) - IDE для разработки на Java
 
 # Общая информация
 
@@ -49,17 +49,12 @@
 Перед созданием новой ветки необходимо убедиться, что текущая ветка - *master*. В IntelliJ Idea текущая ветка по-умолчанию отображается в правом нижнем углу напротив *Git:*
 
 Если вы пользуетесь консолью при работе с Git, то наберите:
-```bash
-git branch
-```
+```git branch```
 Эта команда отобразит текущую ветку
 
 Для создания новой ветки в IntelliJ Idea достаточно кликнуть на *Git: master* -> *New Branch* и затем ввести имя новой ветки (для удобства веткам лучше давать имена, созвучные с задачей, например, task01)
 
-В консоли:
-```bash
-git checkout -b task01
-```
+В консоли: ```git checkout -b task01```
 
 ## 2. Решение задачи
 В каждой задаче присутствует Readme файл с детальным описанием задачи.

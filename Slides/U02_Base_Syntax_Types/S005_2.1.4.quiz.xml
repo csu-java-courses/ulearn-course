@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="cc5107b0-b576-11e8-96f8-529269fb1459" tries="2">
+  <title>Контрольный вопрос</title>
+  <p>Укажите пары эквивалентных булевских операторов.</p>
+  <p>Операторы эквивалентны, если их [таблицы истинности](https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8) совпадают, т.е. для любой пары аргументов оба оператора дают один и тот же результат.</p>
+  <p>Если ответ не очевиден, то составьте таблицы истинности для всех упомянутых операторов и сравните их.</p>
+
+  <choice id="compileRun" multiple="true" shuffle="true" maxScore="0">
+    <text>Выберите один или несколько вариантов из списка.</text>
+    <item id="1" isCorrect="false">&amp; и ==</item>
+    <item id="2" isCorrect="false">| и !=</item>
+    <item id="3" isCorrect="true">| и ||</item>
+    <item id="4" isCorrect="true">^ и !=</item>
+  </choice>
+
+</Quiz>

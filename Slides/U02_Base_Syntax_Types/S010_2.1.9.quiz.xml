@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="cc511174-b576-11e8-96f8-529269fb1459" tries="3">
+  <title>Контрольный вопрос</title>
+  <p>Какой тип имеет литерал 0x0bp3?</p>
+  <p>Представьте, что вы пишите _&lt;type&gt; a = 0x0bp3;_</p>
+  <p>Подробно про литералы можно прочитать в [официальной документации](https://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.10).</p>
+
+  <choice id="intsize" shuffle="true" maxScore="0">
+      <text>Выберите один вариант из списка.</text>
+      <item id="1" isCorrect="true">double</item>
+      <item id="2" isCorrect="false">float</item>
+      <item id="3" isCorrect="false">short</item>
+      <item id="4" isCorrect="false">int</item>
+      <item id="5" isCorrect="false">char</item>
+  </choice>
+
+</Quiz>

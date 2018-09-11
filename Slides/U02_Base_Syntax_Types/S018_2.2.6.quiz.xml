@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="cc512970-b576-11e8-96f8-529269fb1459" tries="2">
+  <title>Контрольный вопрос</title>
+  <p>Укажите преобразования типов, которые компилятор делает автоматически. Другими словами, для каких преобразований не требуется явно писать в программе оператор приведения типа?</p>
+
+  <choice id="basictypes" multiple="true" shuffle="true" maxScore="0">
+    <text>Выберите один или несколько вариантов из списка.</text>
+    <item id="1" isCorrect="false">int -> boolean</item>
+    <item id="2" isCorrect="true">char -> int</item>
+    <item id="3" isCorrect="true">long -> float</item>
+    <item id="4" isCorrect="false">float -> long</item>
+    <item id="5" isCorrect="true">int -> long</item>
+    <item id="6" isCorrect="true">char -> Character</item>
+    <item id="7" isCorrect="false">String -> int</item>
+    <item id="8" isCorrect="false">byte -> char</item>
+  </choice>
+
+</Quiz>
