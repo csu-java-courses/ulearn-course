@@ -16,15 +16,15 @@ Header 1				| h2
 *Content1*				| 42
 `Content Cell`	| 100500
 	</p>
-  <fillIn id="fillInQuestion" explanation="Описание правильного ответа" maxScore="2">
+  <fillIn id="fillInQuestion" explanation="Описание правильного ответа" maxScore="0">
     <text>Введите корректное число</text>
     <sample>42</sample>
     <regex>\d+</regex>
   </fillIn>
-  <isTrue id="isTrueQuestion" explanation="Описание правильного ответа" answer="true" maxScore="2">
+  <isTrue id="isTrueQuestion" explanation="Описание правильного ответа" answer="true" maxScore="0">
     <text>Верно ли утверждение?</text>
   </isTrue>
-  <choice id="choiceQuestion" multiple="false" shuffle="true" maxScore="3">
+  <choice id="choiceQuestion" multiple="false" shuffle="true" maxScore="0">
     <text>Выберите вариант</text>
     <item id="1" isCorrect="true">
 Первый вариант

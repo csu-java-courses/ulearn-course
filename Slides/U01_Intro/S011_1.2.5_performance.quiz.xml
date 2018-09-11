@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="5171404f-3497-4dff-b467-748c4f19b964" scoringGroup="homework" tries="2">
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="5171404f-3497-4dff-b467-748c4f19b964" tries="2">
     <title>1.2.5 Контрольный вопрос</title>
 
-    <matching id="performance">
+    <matching id="performance" maxScore="0">
         <text>Сопоставьте следующие аббревиатуры с их определениями.</text>
         <match id="1">
             <fixed>JDK</fixed>

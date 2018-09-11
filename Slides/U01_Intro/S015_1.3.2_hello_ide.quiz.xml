@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="6210c300-4c89-4431-99dd-005d46b82592" scoringGroup="homework" tries="2">
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="6210c300-4c89-4431-99dd-005d46b82592" tries="2">
     <title>1.3.2 Контрольный вопрос</title>
 
-    <choice id="javadoc" multiple="true" shuffle="true" maxScore="1">
+    <choice id="javadoc" multiple="true" shuffle="true" maxScore="0">
         <text>Выберите из приведенных ниже комментариев те, которые являются JavaDoc-комментариями.</text>
         <item id="1" isCorrect="true">/** Is this a javadoc? */</item>
         <item id="2" isCorrect="false">/* Is this a javadoc? */</item>

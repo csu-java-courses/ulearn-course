@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="1bd358c8-faca-4846-beee-d046e43f37e4" scoringGroup="homework" tries="2">
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="1bd358c8-faca-4846-beee-d046e43f37e4" tries="2">
     <title>1.2.2 Контрольные вопросы</title>
 
-    <choice id="compileRun" multiple="true" shuffle="true" maxScore="1">
+    <choice id="compileRun" multiple="true" shuffle="true" maxScore="0">
         <text>Выберите правильные объявления метода main — такие, при которых программа успешно скомпилируется и запустится.</text>
         <item id="1" isCorrect="false">static void main(String[] args)</item>
         <item id="2" isCorrect="true">public static void main(String[] args)</item>
@@ -11,7 +11,7 @@
         <item id="5" isCorrect="false">public static void main()</item>
     </choice>
 
-    <choice id="modifiers" multiple="false" shuffle="true" maxScore="1">
+    <choice id="modifiers" multiple="false" shuffle="true" maxScore="0">
         <text>Что произойдет, если объявить метод main с синтаксически корректной, но не поддерживаемой JVM комбинацией модификаторов, возвращаемого значения и параметров?</text>
         <item id="1" isCorrect="true">Программа скомпилируется, но при попытке запуска упадет с ошибкой.</item>
         <item id="2" isCorrect="false">Программа не скомпилируется.</item>

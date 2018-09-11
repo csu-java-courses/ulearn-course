@@ -4,7 +4,6 @@
 	<language name="java" version="8" />
 	<manual-checking>true</manual-checking>
 	<scoring defaultQuiz="homework" defaultExercise="homework" default="homework">
-	    <group id="homework" abbr="ДЗ" set_by_instructor="true" enable_for_everyone="true">Домашняя работа</group>
-		<group id="activity" abbr="Акт" set_by_instructor="true" enable_for_everyone="true">Активность на уроках</group>
+	    <group id="homework" abbr="ДЗ">Домашняя работа</group>
 	</scoring>
 </Course>
