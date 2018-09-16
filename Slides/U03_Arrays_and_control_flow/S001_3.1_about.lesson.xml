@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Массивы и строки</title>
+  <id>ec12628e-54cc-4bcd-a9ff-d112da0ebf7f</id>
+
+  <md>
+    Видео-материалы второго и третьего модуля [полностью](https://www.youtube.com/watch?v=oaZqTPDIEbE)
+
+    Презентация ([скачать](https://stepik.org/media/attachments/lesson/12759/module2.pdf))
+
+    + Про выделение и освобождение памяти
+    + Массивы
+    + Varargs
+    + Сравнение массивов
+    + Печать массивов
+    + Строки
+    + Вопрос
+    + Вопрос
+  </md>
+</Lesson>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="a465f8ca-50f7-473d-940d-369555be1ba9" tries="2">
+  <title>Контрольный вопрос</title>
+  <p>Выберите выражения, которые дадут в качестве результата строку A12.</p>
+
+  <choice id="compileRun" multiple="true" shuffle="true" maxScore="0">
+    <text>Выберите один или несколько вариантов из списка.</text>
+    <item id="1" isCorrect="true">'A' + "12"</item>
+    <item id="2" isCorrect="true">"A" + 12</item>
+    <item id="3" isCorrect="false">'A' + '1' + "2"</item>
+    <item id="4" isCorrect="true">"A" + ('\t' + '\u0003')</item>
+  </choice>
+
+</Quiz>

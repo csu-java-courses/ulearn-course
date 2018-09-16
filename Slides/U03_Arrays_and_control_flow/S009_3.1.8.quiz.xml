@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="e5cfa200-9978-4ae5-adde-c1a3323b985d" tries="2">
+  <title>Контрольный вопрос</title>
+  <p></p>
+
+  <isTrue id="zeroLengthArray" answer="true">
+    <text>Можно ли создать массив нулевой длины?</text>
+  </isTrue>
+</Quiz>

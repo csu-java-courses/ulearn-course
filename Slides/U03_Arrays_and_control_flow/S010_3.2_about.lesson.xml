@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Управляющие конструкции</title>
+  <id>fcb58d94-2254-4458-b00e-8932218cc46d</id>
+  <md>
+    + Условные операторы
+    + Циклы
+    + Операторы break и continue
+    + Оператор return
+    + Вопрос
+    + Вопрос
+  </md>
+</Lesson>
