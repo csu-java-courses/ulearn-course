@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Задача 5</title>
+  <id>c2d7c3f0-7b98-46e6-a780-faddb08d2614</id>
+  <default-include-code-file>_Code.java</default-include-code-file>
+  <md>
+    [Описание задачи](https://github.com/csu-mk-2018/3-java-control-flow-and-arrays/tree/master/task05)
+  </md>
+
+  <exercise>
+    <max-score>1</max-score>
+    <correctness-score>0</correctness-score>
+    <inital-code>вставьте ссылку на Pull Request</inital-code>
+    <hide-expected-output>true</hide-expected-output>
+    <max-review-attempts>3</max-review-attempts>
+    <hint>Используйте функцию гитхаба New pull request</hint>
+    <comment>Принято</comment>
+    <require-review>true</require-review>
+    <expected>github.com</expected>
+    <solution>Main</solution>
+    <scoring-group>homework</scoring-group>
+  </exercise>
+
+</Lesson>
