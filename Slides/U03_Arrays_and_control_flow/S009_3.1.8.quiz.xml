@@ -3,7 +3,7 @@
   <title>Контрольный вопрос</title>
   <p></p>
 
-  <isTrue id="zeroLengthArray" answer="true">
+  <isTrue id="zeroLengthArray" answer="true" maxScore="0">
     <text>Можно ли создать массив нулевой длины?</text>
   </isTrue>
 </Quiz>
