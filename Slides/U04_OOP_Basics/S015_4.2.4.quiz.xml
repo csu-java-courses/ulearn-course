@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="a9a19d93-43d5-4e6d-b643-e06d2447a15b" tries="2">
+  <title>Контрольный вопрос</title>
+  <p>Допустим, вы пишете класс Example в пакете com.example.java. Классы из каких пакетов вы можете использовать в классе Example по их коротким именам без явного import'а?</p>
+
+  <choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
+    <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <item id="1" isCorrect="false">java.util</item>
+    <item id="2" isCorrect="false">пакет по умолчанию</item>
+    <item id="3" isCorrect="false">все подпакеты org.stepic.java.example</item>
+    <item id="4" isCorrect="true">com.example.java</item>
+    <item id="5" isCorrect="true">java.lang</item>
+  </choice>
+
+</Quiz>

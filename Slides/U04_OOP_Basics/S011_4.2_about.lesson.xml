@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Пакеты и модификаторы доступа</title>
+  <id>ec1c6eb8-a806-4d54-b865-56e8af31a37e</id>
+
+  <md>
+    + Ключевое слово package
+    + Именование пакетов
+    + Модификаторы доступа
+    + Вопрос
+    + Вопрос
+    + Вопрос
+  </md>
+</Lesson>

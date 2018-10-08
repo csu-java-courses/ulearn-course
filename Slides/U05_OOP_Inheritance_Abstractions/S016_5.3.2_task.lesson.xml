@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Задача 2</title>
+  <id>ca37d1cb-fd8a-4e5a-a7b0-6450a39c377b</id>
+  <default-include-code-file>_Code.java</default-include-code-file>
+  <md>
+    [Описание задачи](https://github.com/csu-mk-2018/5-java-oop-principles/tree/master/task02)
+  </md>
+
+  <exercise>
+    <max-score>4</max-score>
+    <correctness-score>0</correctness-score>
+    <inital-code>вставьте ссылку на Pull Request</inital-code>
+    <hide-expected-output>true</hide-expected-output>
+    <max-review-attempts>3</max-review-attempts>
+    <hint>Используйте функцию гитхаба New pull request</hint>
+    <comment>Принято</comment>
+    <require-review>true</require-review>
+    <expected>github.com</expected>
+    <solution>Main</solution>
+    <scoring-group>homework</scoring-group>
+  </exercise>
+
+</Lesson>

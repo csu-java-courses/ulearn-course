@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="19cd8aba-0d03-435a-9340-d177d53f15d6" tries="2">
+  <title>Контрольный вопрос</title>
+  <p>В чем разница между классом и объектом?</p>
+
+  <choice id="compileRun" shuffle="true" maxScore="0">
+    <text>Тест — Выберите один вариант из списка</text>
+    <item id="1" isCorrect="false">Разницы нет, это одно и то же.</item>
+    <item id="2" isCorrect="true">Объект — это конкретный экземпляр класса.</item>
+    <item id="3" isCorrect="false">Класс — это конкретный экземпляр объекта.</item>
+    <item id="4" isCorrect="false">В Java есть только классы, объектов не бывает.</item>
+  </choice>
+
+</Quiz>

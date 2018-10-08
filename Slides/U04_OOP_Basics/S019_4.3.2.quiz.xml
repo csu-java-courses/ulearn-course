@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="993d6fea-8ad7-4972-a307-c85e086daac8" tries="2">
+  <title>Контрольный вопрос</title>
+  <p>Какие модификаторы доступа применимы к классу верхнего уровня (т.е. не вложенному в другой класс)?</p>
+
+  <choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
+    <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <item id="1" isCorrect="true">отсутствие модификатора (пакетный доступ)</item>
+    <item id="2" isCorrect="true">public</item>
+    <item id="3" isCorrect="false">private</item>
+    <item id="4" isCorrect="false">protected</item>
+  </choice>
+
+</Quiz>

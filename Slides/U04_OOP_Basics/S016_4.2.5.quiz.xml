@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="75629ee4-edf7-42d7-8a72-34f7d6444f5f" tries="2">
+  <title>Контрольный вопрос</title>
+  <p>Допустим, вы написали в исходном файле Example.java следующую директиву import:</p>
+  <code xml:space="preserve">
+import java.math.BigDecimal;
+
+public class Example {
+    // ...
+}
+	</code>
+  <p>Выберите верные утверждения</p>
+
+  <choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
+    <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <item id="1" isCorrect="false">Можно ссылаться на класс java.math.BigDecimal по его короткому имени BigDecimal во всех исходных файлах вашей программы.</item>
+    <item id="2" isCorrect="true">Можно ссылаться на класс java.math.BigDecimal по его короткому имени BigDecimal в пределах Example.java.</item>
+    <item id="3" isCorrect="true">Можно ссылаться на класс java.math.BigDecimal по его полному имени BigDecimal во всех исходных файлах вашей программы.</item>
+    <item id="4" isCorrect="false">Исходный код класса java.math.BigDecimal включается в исходный код вашего класса.</item>
+    <item id="5" isCorrect="false">Байткод класса java.math.BigDecimal включается в байткод вашего класса.</item>
+  </choice>
+
+</Quiz>

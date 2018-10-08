@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Объявление класса</title>
+  <id>2962e616-d29d-42de-8dd4-991ce77925ff</id>
+
+  <md>
+    + Класс
+    + Вопрос
+    + Поля класса
+    + Конструкторы
+    + Вопрос
+    + Методы
+    + Immutable-классы. Вложенные классы
+    + Вопрос
+    + Перечисления
+    + Аннотации
+  </md>
+</Lesson>
