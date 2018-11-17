@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Знакомство с исключениями</title>
+  <id>5df6be15-3dbe-48cc-9edf-6e79e264e407</id>
+
+  <md>
+    Видео-материалы модуля [полностью](https://www.youtube.com/watch?v=c933nFNOz3w)
+
+    Презентация ([скачать](https://stepik.org/media/attachments/lesson/12772/module4.pdf))
+
+    + Способы возврата ошибки
+    + Знакомство с исключениями
+    + Класс Throwable
+    + Типы исключений
+    + Пример собственного типа исключения
+    + Вопрос
+  </md>
+</Lesson>

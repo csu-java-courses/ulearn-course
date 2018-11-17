@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Логгирование</title>
+  <id>672acce0-abdc-417b-9e20-ceeba815a7de</id>
+
+  <md>
+    + Класс Logger
+    + Вывод сообщений в лог
+    + Тонкая настройка: Handler, Formatter
+    + Пример использования
+    + Вопрос
+    + Вопрос
+  </md>
+</Lesson>

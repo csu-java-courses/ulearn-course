@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="674aa903-b2aa-4d51-b49a-64325989652b" tries="2">
+  <title>Контрольный вопрос</title>
+  <p>Рассмотрим пример кода:</p>
+  <code xml:space="preserve">
+    try {
+      // ...
+    } catch (Exception e) {
+      // ...
+    } finally {
+      // ...
+    }
+	</code>
+  <p>При каких условиях блок finally не будет выполнен? Можно выбрать несколько вариантов.</p>
+
+  <choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
+    <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <item id="1" isCorrect="false">Если в блоке catch при обработке исключения случилось другое исключение.</item>
+    <item id="2" isCorrect="false">Если в блоке try брошено исключение, которое обработано блоком catch.</item>
+    <item id="3" isCorrect="true">Если во время исполнения блока try виртуальная машина "выполнила недопустимую операцию и будет закрыта".</item>
+    <item id="4" isCorrect="false">Если в блоке try выполняется оператор break.</item>
+    <item id="5" isCorrect="true">Если в блоке try вызван System.exit(0).</item>
+    <item id="6" isCorrect="false">Если в блоке try выполняется оператор return.</item>
+  </choice>
+
+</Quiz>

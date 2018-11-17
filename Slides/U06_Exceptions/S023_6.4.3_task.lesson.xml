@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Задача 3</title>
+  <id>b03ff8ca-93ba-4eb0-8190-0fe6bf478eb6</id>
+  <default-include-code-file>_Code.java</default-include-code-file>
+  <md>
+    [Описание задачи](https://github.com/csu-mk-2018/6-java-exceptions/tree/master/task03)
+  </md>
+
+  <exercise>
+    <max-score>2</max-score>
+    <correctness-score>0</correctness-score>
+    <inital-code>вставьте ссылку на Pull Request</inital-code>
+    <hide-expected-output>true</hide-expected-output>
+    <max-review-attempts>3</max-review-attempts>
+    <hint>Используйте функцию гитхаба New pull request</hint>
+    <comment>Принято</comment>
+    <require-review>true</require-review>
+    <expected>github.com</expected>
+    <solution>Main</solution>
+    <scoring-group>homework</scoring-group>
+  </exercise>
+
+</Lesson>

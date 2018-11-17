@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
+  <title>Обработка исключений. Try-catch</title>
+  <id>eb94d0d0-560c-43cd-a471-aeae85f8748e</id>
+
+  <md>
+    + Ловим исключение
+    + Обрабатываем исключение
+    + Рекомендации по использованию исключений
+    + Вопрос
+    + Вопрос
+  </md>
+</Lesson>

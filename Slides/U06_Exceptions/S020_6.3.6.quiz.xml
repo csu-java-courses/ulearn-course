@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="3e8f02a7-d54d-44dd-849d-a175aae86b4b" tries="3">
+    <title>Контрольный вопрос</title>
+
+    <matching id="levels" maxScore="0">
+        <text>Отсортируйте уровни детальности логгирования  (java.util.logging.Level) от самого детального к самому краткому.</text>
+        <match id="1">
+            <fixed>1</fixed>
+            <movable>ALL</movable>
+        </match>
+        <match id="2">
+            <fixed>2</fixed>
+            <movable>FINEST</movable>
+        </match>
+        <match id="3">
+            <fixed>3</fixed>
+            <movable>FINER</movable>
+        </match>
+        <match id="4">
+            <fixed>4</fixed>
+            <movable>FINE</movable>
+        </match>
+        <match id="5">
+            <fixed>5</fixed>
+            <movable>CONFIG</movable>
+        </match>
+        <match id="6">
+            <fixed>6</fixed>
+            <movable>INFO</movable>
+        </match>
+        <match id="7">
+            <fixed>7</fixed>
+            <movable>WARNING</movable>
+        </match>
+        <match id="8">
+            <fixed>8</fixed>
+            <movable>SEVERE</movable>
+        </match>
+        <match id="9">
+            <fixed>9</fixed>
+            <movable>OFF</movable>
+        </match>
+    </matching>
+
+</Quiz>
