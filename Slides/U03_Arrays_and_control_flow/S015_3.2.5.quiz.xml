@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="e1241774-77d4-4ce9-b734-a50ff7385583" tries="2">
-  <title>Контрольный вопрос</title>
-  <p>Значения каких типов могут использоваться в операторе switch?</p>
-
-  <choice id="compileRun" multiple="true" shuffle="true" maxScore="0">
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Контрольный вопрос" id="e1241774-77d4-4ce9-b734-a50ff7385583">
+  <scoring tries="2"/>
+  <markdown>Значения каких типов могут использоваться в операторе switch?</markdown>
+  <question.choice id="compileRun" multiple="true" shuffle="true" maxScore="0">
     <text>Выберите один или несколько вариантов из списка.</text>
     <item id="1" isCorrect="true">int</item>
     <item id="2" isCorrect="false">float</item>
@@ -11,6 +10,5 @@
     <item id="4" isCorrect="false">long</item>
     <item id="5" isCorrect="false">boolean</item>
     <item id="6" isCorrect="true">String</item>
-  </choice>
-
-</Quiz>
+  </question.choice>
+</slide.quiz>

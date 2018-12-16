@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Способы возврата ошибки</title>
-  <id>68837d82-bcb1-4015-893a-e2c7d465641f</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Способы возврата ошибки" id="68837d82-bcb1-4015-893a-e2c7d465641f">
   <youtube>6Vz7yogagSM</youtube>
-</Lesson>
+</slide>

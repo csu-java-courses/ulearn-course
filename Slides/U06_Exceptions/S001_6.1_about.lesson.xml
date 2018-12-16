@@ -1,9 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Знакомство с исключениями</title>
-  <id>5df6be15-3dbe-48cc-9edf-6e79e264e407</id>
-
-  <md>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Знакомство с исключениями" id="5df6be15-3dbe-48cc-9edf-6e79e264e407">
+  <markdown>
     Видео-материалы модуля [полностью](https://www.youtube.com/watch?v=c933nFNOz3w)
 
     Презентация ([скачать](https://stepik.org/media/attachments/lesson/12772/module4.pdf))
@@ -14,5 +11,5 @@
     + Типы исключений
     + Пример собственного типа исключения
     + Вопрос
-  </md>
-</Lesson>
+  </markdown>
+</slide>

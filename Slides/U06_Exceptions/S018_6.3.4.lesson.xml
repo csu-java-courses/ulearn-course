@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Пример использования</title>
-  <id>d62c180d-96a3-43f0-beb1-a480dd5049ee</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Пример использования" id="d62c180d-96a3-43f0-beb1-a480dd5049ee">
   <youtube>nF8FDRvEy1s</youtube>
-</Lesson>
+</slide>

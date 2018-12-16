@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Пример: семейство геометрических фигур</title>
-  <id>fa90fee1-e701-4fab-9350-09fc31b66436</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Пример: семейство геометрических фигур" id="fa90fee1-e701-4fab-9350-09fc31b66436">
   <youtube>FCHgefuDzck</youtube>
-</Lesson>
+</slide>

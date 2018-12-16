@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Про выделение и освобождение памяти</title>
-  <id>3c09f3af-f1fb-459b-9092-7456a831c231</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Про выделение и освобождение памяти" id="3c09f3af-f1fb-459b-9092-7456a831c231">
   <youtube>pxQ2cBg8aqg</youtube>
-</Lesson>
+</slide>

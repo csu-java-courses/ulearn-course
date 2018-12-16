@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="6d3e5431-c3e0-4b33-884e-7aabf15fe1da" tries="2">
-  <title>Контрольный вопрос</title>
-  <p>Почему рекомендуется выводить отладочную информацию при помощи класса Logger, а не через System.out или System.err?</p>
-
-  <choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Контрольный вопрос" id="6d3e5431-c3e0-4b33-884e-7aabf15fe1da">
+  <scoring tries="2"/>
+  <markdown>Почему рекомендуется выводить отладочную информацию при помощи класса Logger, а не через System.out или System.err?</markdown>
+  <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
     <item id="1" isCorrect="true">Logger дает возможность гибко настраивать формат и место записи сообщений без изменения программы.</item>
     <item id="2" isCorrect="true">Logger позволяет менять детальность логгирования, не прибегая к if'ам в коде.</item>
     <item id="3" isCorrect="true">Logger поддерживает локализацию отладочных сообщений.</item>
     <item id="4" isCorrect="false">Logger выводит текстовые сообщения более эффективно, чем System.out и System.err.</item>
     <item id="5" isCorrect="false">Logger сообщает об ошибках с уровнем WARNING и выше виртуальной машине, чтобы она могла их обработать.</item>
-  </choice>
-
-</Quiz>
+  </question.choice>
+</slide.quiz>

@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="47137ac5-d942-45ff-9768-8c12d21e12fe" tries="2">
-  <title>Контрольный вопрос</title>
-  <p>Выберите верные утверждения про интерфейсы и абстрактные классы.</p>
-
-  <choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Контрольный вопрос" id="47137ac5-d942-45ff-9768-8c12d21e12fe">
+  <scoring tries="2"/>
+  <markdown>Выберите верные утверждения про интерфейсы и абстрактные классы.</markdown>
+  <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
     <item id="1" isCorrect="true">Класс может наследоваться только от одного класса, но может реализовывать сколько угодно интерфейсов.</item>
     <item id="2" isCorrect="false">Ключевое слово "interface" — это сокращенная запись для "abstract class".</item>
     <item id="3" isCorrect="false">Интерфейсы отличаются от абстрактных классов тем, что не могут содержать реализаций методов.</item>
     <item id="4" isCorrect="true">Интерфейсы отличаются от абстрактных классов тем, что могут содержать только публичные методы и публичные статические финальные поля.</item>
-  </choice>
-
-</Quiz>
+  </question.choice>
+</slide.quiz>

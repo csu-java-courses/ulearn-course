@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Модификаторы доступа</title>
-  <id>8b1bda13-e13f-46e9-a2d1-f32036c6baa7</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Модификаторы доступа" id="8b1bda13-e13f-46e9-a2d1-f32036c6baa7">
   <youtube>3tDNUAa5CFE</youtube>
-</Lesson>
+</slide>

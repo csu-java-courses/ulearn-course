@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Полезные классы: Math, BigInteger, BigDecimal</title>
-  <id>cc510fda-b576-11e8-96f8-529269fb1459</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Полезные классы: Math, BigInteger, BigDecimal" id="cc510fda-b576-11e8-96f8-529269fb1459">
   <youtube>KDY5CbOVGMo</youtube>
-</Lesson>
+</slide>

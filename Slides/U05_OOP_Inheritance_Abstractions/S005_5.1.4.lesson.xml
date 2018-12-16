@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Класс Object</title>
-  <id>b9e089c7-7e36-412b-adb2-8c2fe2e4b757</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Класс Object" id="b9e089c7-7e36-412b-adb2-8c2fe2e4b757">
   <youtube>cWF2G7Gf0s4</youtube>
-</Lesson>
+</slide>

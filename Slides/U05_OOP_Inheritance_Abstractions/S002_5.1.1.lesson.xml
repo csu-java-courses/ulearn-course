@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Наследование, возможности переопределения</title>
-  <id>b4030df5-5b9e-4984-a00b-6f2cdb4a3045</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Наследование, возможности переопределения" id="b4030df5-5b9e-4984-a00b-6f2cdb4a3045">
   <youtube>InFHz9qYM3U</youtube>
-</Lesson>
+</slide>

@@ -1,8 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-    <title>1.2.4 О производительности</title>
-    <id>7bb54a9c-ccbf-4a43-a083-2829b5941432</id>
-
-    <youtube>1m4d0cKiB58</youtube>
-
-</Lesson>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="1.2.4 О производительности" id="7bb54a9c-ccbf-4a43-a083-2829b5941432">
+  <youtube>1m4d0cKiB58</youtube>
+</slide>

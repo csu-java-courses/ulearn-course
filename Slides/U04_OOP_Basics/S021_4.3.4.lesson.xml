@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Конструкторы</title>
-  <id>82aaa0d1-cfa1-44d9-be02-8f4ff632351d</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Конструкторы" id="82aaa0d1-cfa1-44d9-be02-8f4ff632351d">
   <youtube>1dwGSt-XWv4</youtube>
-</Lesson>
+</slide>

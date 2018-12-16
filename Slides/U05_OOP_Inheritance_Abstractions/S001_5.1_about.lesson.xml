@@ -1,9 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Наследование. Класс Object</title>
-  <id>15c270d9-7768-41da-a0fa-c4c25b2ca83b</id>
-
-  <md>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Наследование. Класс Object" id="15c270d9-7768-41da-a0fa-c4c25b2ca83b">
+  <markdown>
     Видео-материалы модулей ООП [полностью](https://www.youtube.com/watch?v=BV3__5u22h0)
 
     Презентация ([скачать](https://stepik.org/media/attachments/lesson/12764/module3.pdf))
@@ -15,5 +12,5 @@
     + Пример: семейство геометрических фигур
     + О правильном использовании наследования
     + Вопрос
-  </md>
-</Lesson>
+  </markdown>
+</slide>

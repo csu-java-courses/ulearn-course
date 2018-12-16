@@ -1,10 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-    <title>1.2.6 Первая задача на программирование. Простая :)</title>
-    <id>ac942610-ede8-4520-80de-d2d118eb2b06</id>
-
-    <md>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="1.2.6 Первая задача на программирование. Простая :)" id="ac942610-ede8-4520-80de-d2d118eb2b06">
+  <markdown>
         Напишите программу, выводящую в консоль `It's alive! It's alive!`
-    </md>
-
-</Lesson>
+    </markdown>
+</slide>

@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="d5bff6d5-b7ac-4036-8086-a1e29b784eaf" tries="2">
-  <title>Контрольный вопрос</title>
-  <p>Какой модификатор доступа имеет конструктор без параметров, автоматически добавляемый компилятором для public-класса?</p>
-
-  <choice id="compileRun" shuffle="true" maxScore="0">
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Контрольный вопрос" id="d5bff6d5-b7ac-4036-8086-a1e29b784eaf">
+  <scoring tries="2"/>
+  <markdown>Какой модификатор доступа имеет конструктор без параметров, автоматически добавляемый компилятором для public-класса?</markdown>
+  <question.choice id="compileRun" shuffle="true" maxScore="0">
     <text>Тест — Выберите один вариант из списка</text>
     <item id="1" isCorrect="false">отсутствие модификатора (пакетный доступ)</item>
     <item id="2" isCorrect="false">protected</item>
     <item id="3" isCorrect="true">public</item>
     <item id="4" isCorrect="false">private</item>
-  </choice>
-
-</Quiz>
+  </question.choice>
+</slide.quiz>

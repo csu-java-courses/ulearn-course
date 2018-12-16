@@ -1,9 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Объявление класса</title>
-  <id>2962e616-d29d-42de-8dd4-991ce77925ff</id>
-
-  <md>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Объявление класса" id="2962e616-d29d-42de-8dd4-991ce77925ff">
+  <markdown>
     + Класс
     + Вопрос
     + Поля класса
@@ -14,5 +11,5 @@
     + Вопрос
     + Перечисления
     + Аннотации
-  </md>
-</Lesson>
+  </markdown>
+</slide>

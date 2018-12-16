@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Аннотации</title>
-  <id>721edd2b-bb2a-471d-9e80-09118e829f9e</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Аннотации" id="721edd2b-bb2a-471d-9e80-09118e829f9e">
   <youtube>44hfKOnq2uo</youtube>
-</Lesson>
+</slide>

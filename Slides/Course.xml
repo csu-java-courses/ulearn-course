@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Course xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://ulearn.azurewebsites.net/course"  xmlns:types="https://ulearn.azurewebsites.net/types">
-	<title>Java. Основы программирования</title>
-	<language name="java" version="8" />
-	<manual-checking>true</manual-checking>
-	<scoring defaultQuiz="homework" defaultExercise="homework" default="homework">
-	    <group id="homework" abbr="ДЗ">Домашняя работа</group>
-	</scoring>
-</Course>

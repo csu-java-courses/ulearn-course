@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>О правильном использовании наследования</title>
-  <id>8d1278ea-40fe-42d6-aa82-9a1b78445f98</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="О правильном использовании наследования" id="8d1278ea-40fe-42d6-aa82-9a1b78445f98">
   <youtube>4RnMvxFFlzA</youtube>
-</Lesson>
+</slide>

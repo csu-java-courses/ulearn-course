@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Класс Logger</title>
-  <id>007ad838-779f-49a4-9c12-357adb40184c</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Класс Logger" id="007ad838-779f-49a4-9c12-357adb40184c">
   <youtube>_1FywRA87E0</youtube>
-</Lesson>
+</slide>

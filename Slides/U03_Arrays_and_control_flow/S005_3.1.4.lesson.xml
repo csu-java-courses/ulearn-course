@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Сравнение массивов</title>
-  <id>ccfabad4-8ae0-45a6-81b2-f20f06130563</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Сравнение массивов" id="ccfabad4-8ae0-45a6-81b2-f20f06130563">
   <youtube>PcL28VPKflc</youtube>
-</Lesson>
+</slide>

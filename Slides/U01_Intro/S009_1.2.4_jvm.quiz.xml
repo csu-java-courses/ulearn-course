@@ -1,13 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="bc0e383d-3f7b-4227-8086-00ecccd32c1b" tries="2">
-    <title>1.2.4 Контрольный вопрос</title>
-
-    <choice id="jar" multiple="true" shuffle="true" maxScore="0">
-        <text>Выберите верные утверждения про формат JAR. Может быть выбрано несколько пунктов.</text>
-        <item id="1" isCorrect="true">Формат JAR основан на формате ZIP.</item>
-        <item id="2" isCorrect="false">В JAR-файл разрешено запаковывать только class-файлы.</item>
-        <item id="3" isCorrect="true">В JAR-архиве может быть специальный файл с метаданными — META-INF/MANIFEST.MF.</item>
-        <item id="4" isCorrect="false">Формат JAR основан на формате RAR.</item>
-    </choice>
-
-</Quiz>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="1.2.4 Контрольный вопрос" id="bc0e383d-3f7b-4227-8086-00ecccd32c1b">
+  <scoring tries="2"/>
+  <question.choice id="jar" multiple="true" shuffle="true" maxScore="0">
+    <text>Выберите верные утверждения про формат JAR. Может быть выбрано несколько пунктов.</text>
+    <item id="1" isCorrect="true">Формат JAR основан на формате ZIP.</item>
+    <item id="2" isCorrect="false">В JAR-файл разрешено запаковывать только class-файлы.</item>
+    <item id="3" isCorrect="true">В JAR-архиве может быть специальный файл с метаданными — META-INF/MANIFEST.MF.</item>
+    <item id="4" isCorrect="false">Формат JAR основан на формате RAR.</item>
+  </question.choice>
+</slide.quiz>

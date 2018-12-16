@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Вывод сообщений в лог</title>
-  <id>30a566ba-2626-4c0c-b3fe-ab6535360838</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Вывод сообщений в лог" id="30a566ba-2626-4c0c-b3fe-ab6535360838">
   <youtube>ZCDRksP6epo</youtube>
-</Lesson>
+</slide>

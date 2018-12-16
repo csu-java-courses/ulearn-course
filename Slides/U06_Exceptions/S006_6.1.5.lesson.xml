@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Пример собственного типа исключения</title>
-  <id>f4e8c046-d3a9-48ab-a6f1-d15ed9a727ce</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Пример собственного типа исключения" id="f4e8c046-d3a9-48ab-a6f1-d15ed9a727ce">
   <youtube>ol74M_a7nnU</youtube>
-</Lesson>
+</slide>

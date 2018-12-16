@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Печать массивов</title>
-  <id>62446353-ff34-41e2-99e5-15aaceb31690</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Печать массивов" id="62446353-ff34-41e2-99e5-15aaceb31690">
   <youtube>ZF3caeS7MQk</youtube>
-</Lesson>
+</slide>

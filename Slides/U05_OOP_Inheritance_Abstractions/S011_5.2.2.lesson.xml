@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Интерфейс</title>
-  <id>96fff5d0-a6a0-46eb-ab5b-17234ddf479e</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Интерфейс" id="96fff5d0-a6a0-46eb-ab5b-17234ddf479e">
   <youtube>cV_8XWAF4IA</youtube>
-</Lesson>
+</slide>

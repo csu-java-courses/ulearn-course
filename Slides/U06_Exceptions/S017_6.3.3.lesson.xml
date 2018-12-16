@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Тонкая настройка: Handler, Formatter</title>
-  <id>1c5e247a-2363-4d41-afa0-f513b5c68931</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Тонкая настройка: Handler, Formatter" id="1c5e247a-2363-4d41-afa0-f513b5c68931">
   <youtube>cCEvVfDic9Q</youtube>
-</Lesson>
+</slide>

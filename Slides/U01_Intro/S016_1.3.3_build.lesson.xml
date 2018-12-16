@@ -1,8 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-    <title>1.3.3 Про автоматическую сборку проектов</title>
-    <id>98186e13-36b6-4f5c-82fc-79b145fa5349</id>
-
-    <youtube>vh0lnK16yYs</youtube>
-
-</Lesson>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="1.3.3 Про автоматическую сборку проектов" id="98186e13-36b6-4f5c-82fc-79b145fa5349">
+  <youtube>vh0lnK16yYs</youtube>
+</slide>

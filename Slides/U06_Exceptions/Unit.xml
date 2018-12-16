@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Unit xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://ulearn.azurewebsites.net/unit">
-		<id>1d77bb39-8036-47e8-a08c-47cb3c776a45</id>
-		<url>Exceptions</url>
-		<title>Обработка ошибок, исключения, отладка</title>
-</Unit>

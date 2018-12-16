@@ -1,9 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Quiz xmlns="https://ulearn.azurewebsites.net/quiz" id="e5cfa200-9978-4ae5-adde-c1a3323b985d" tries="2">
-  <title>Контрольный вопрос</title>
-  <p></p>
-
-  <isTrue id="zeroLengthArray" answer="true" maxScore="0">
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Контрольный вопрос" id="e5cfa200-9978-4ae5-adde-c1a3323b985d">
+  <scoring tries="2"/>
+  <markdown/>
+  <question.isTrue id="zeroLengthArray" answer="true" maxScore="0">
     <text>Можно ли создать массив нулевой длины?</text>
-  </isTrue>
-</Quiz>
+  </question.isTrue>
+</slide.quiz>

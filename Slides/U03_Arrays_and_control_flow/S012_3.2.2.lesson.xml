@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Циклы</title>
-  <id>c29f9450-0dd9-44ce-aa4f-2ca308cc76c2</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Циклы" id="c29f9450-0dd9-44ce-aa4f-2ca308cc76c2">
   <youtube>QP-MWUTjBfA</youtube>
-</Lesson>
+</slide>

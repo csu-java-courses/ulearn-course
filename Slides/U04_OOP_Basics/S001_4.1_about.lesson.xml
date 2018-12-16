@@ -1,9 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Основы ООП</title>
-  <id>72cf8363-1944-47a8-a241-71dd40b527a8</id>
-
-  <md>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Основы ООП" id="72cf8363-1944-47a8-a241-71dd40b527a8">
+  <markdown>
     Видео-материалы модулей ООП [полностью](https://www.youtube.com/watch?v=BV3__5u22h0)
 
     Презентация ([скачать](https://stepik.org/media/attachments/lesson/12764/module3.pdf))
@@ -17,5 +14,5 @@
     + Так что насчет Java?
     + Вопрос
     + Вопрос
-  </md>
-</Lesson>
+  </markdown>
+</slide>

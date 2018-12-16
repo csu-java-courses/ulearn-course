@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Поля класса</title>
-  <id>49ff9177-a57a-4ee0-873f-fcf2441caf0e</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Поля класса" id="49ff9177-a57a-4ee0-873f-fcf2441caf0e">
   <youtube>zFR6zXO7YzE</youtube>
-</Lesson>
+</slide>

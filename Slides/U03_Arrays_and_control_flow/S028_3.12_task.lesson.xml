@@ -1,24 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Задача 12</title>
-  <id>b68f816e-a34c-4e36-a9b9-aae34206f349</id>
-  <default-include-code-file>_Code.java</default-include-code-file>
-  <md>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 12" id="b68f816e-a34c-4e36-a9b9-aae34206f349">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="5"/>
+  <defaultIncludeCodeFile>_Code.java</defaultIncludeCodeFile>
+  <markdown>
     [Описание задачи](https://github.com/csu-mk-2018/3-java-control-flow-and-arrays/tree/master/task12)
-  </md>
-
-  <exercise>
-    <max-score>5</max-score>
-    <correctness-score>0</correctness-score>
-    <inital-code>вставьте ссылку на Pull Request</inital-code>
-    <hide-expected-output>true</hide-expected-output>
+  </markdown>
+  <exercise.file>
+    <initialCode>вставьте ссылку на Pull Request</initialCode>
+    <hideExpectedOutput>true</hideExpectedOutput>
     <max-review-attempts>3</max-review-attempts>
     <hint>Используйте функцию гитхаба New pull request</hint>
     <comment>Принято</comment>
-    <require-review>true</require-review>
     <expected>github.com</expected>
     <solution>Main</solution>
-    <scoring-group>homework</scoring-group>
-  </exercise>
-
-</Lesson>
+  </exercise.file>
+</slide.exercise>

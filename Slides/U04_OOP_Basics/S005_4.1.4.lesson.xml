@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Инкапсуляция</title>
-  <id>19889570-fdf6-431f-bef2-6b5268c6e07e</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Инкапсуляция" id="19889570-fdf6-431f-bef2-6b5268c6e07e">
   <youtube>VcYYF-KbQbw</youtube>
-</Lesson>
+</slide>

@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>О чем этот модуль</title>
-  <id>947577eb-3561-4676-8774-33b906c9283d</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="О чем этот модуль" id="947577eb-3561-4676-8774-33b906c9283d">
   <youtube>fIgn8mDnDk4</youtube>
-</Lesson>
+</slide>

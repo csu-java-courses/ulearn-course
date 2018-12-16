@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Что такое объект</title>
-  <id>f4b56329-ed16-4f08-8c9a-22ba1eece964</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Что такое объект" id="f4b56329-ed16-4f08-8c9a-22ba1eece964">
   <youtube>ScsiOPbhT18</youtube>
-</Lesson>
+</slide>

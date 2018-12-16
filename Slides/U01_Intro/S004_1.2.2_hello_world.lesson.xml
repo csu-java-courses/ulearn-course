@@ -1,9 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-    <title>1.2.2  Компилируем и запускаем Hello World</title>
-    <id>27c42b92-23f8-4be0-a152-f7261f53af2e</id>
-
-    <md>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="1.2.2  Компилируем и запускаем Hello World" id="27c42b92-23f8-4be0-a152-f7261f53af2e">
+  <markdown>
 
 
         ### Ставим JDK
@@ -13,8 +10,6 @@
         Вам пригодится следующая страница: http://www.oracle.com/technetwork/java/javase/downloads/index.html. Можете сразу открыть ее в новой вкладке.
 
         При установке JDK отметьте пункт Source Code, чтобы были установлены исходники классов стандартной библиотеки. Удобно иметь их под рукой, чтобы заглядывать при необходимости.
-    </md>
-
-    <youtube>9sWQ7ZYGxs8</youtube>
-
-</Lesson>
+    </markdown>
+  <youtube>9sWQ7ZYGxs8</youtube>
+</slide>

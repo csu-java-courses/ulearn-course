@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Типы исключений</title>
-  <id>2d43e910-6e3f-47da-8441-c640c2fb8988</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Типы исключений" id="2d43e910-6e3f-47da-8441-c640c2fb8988">
   <youtube>PT2y505lRGI</youtube>
-</Lesson>
+</slide>

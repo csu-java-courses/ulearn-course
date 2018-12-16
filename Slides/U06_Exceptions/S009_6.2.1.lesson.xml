@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Ловим исключение</title>
-  <id>bb321e01-e4d6-42bc-a5af-14d222b8a1d8</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Ловим исключение" id="bb321e01-e4d6-42bc-a5af-14d222b8a1d8">
   <youtube>B_nOijGjT9A</youtube>
-</Lesson>
+</slide>

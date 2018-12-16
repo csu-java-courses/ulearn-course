@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Знакомство с исключениями</title>
-  <id>937d2f9d-7216-4480-851f-40f0086566db</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Знакомство с исключениями" id="937d2f9d-7216-4480-851f-40f0086566db">
   <youtube>pi55XPrVqU0</youtube>
-</Lesson>
+</slide>

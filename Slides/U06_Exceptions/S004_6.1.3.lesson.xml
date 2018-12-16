@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Класс Throwable</title>
-  <id>ab88b5d5-f48d-4624-9c87-8502dbb933d3</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Класс Throwable" id="ab88b5d5-f48d-4624-9c87-8502dbb933d3">
   <youtube>6yITLf6ZEGo</youtube>
-</Lesson>
+</slide>

@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Lesson xmlns="https://ulearn.azurewebsites.net/lesson">
-  <title>Объявление класса</title>
-  <id>d782105a-1bfb-4297-bb5b-0749c567420c</id>
+<?xml version='1.0' encoding='UTF-8'?>
+<slide xmlns="https://ulearn.me/schema/v2" title="Объявление класса" id="d782105a-1bfb-4297-bb5b-0749c567420c">
   <youtube>iQBpLHP1mTI</youtube>
-</Lesson>
+</slide>
