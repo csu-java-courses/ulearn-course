@@ -14,6 +14,7 @@
   <markdown>При каких условиях блок finally не будет выполнен? Можно выбрать несколько вариантов.</markdown>
   <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="false">Если в блоке catch при обработке исключения случилось другое исключение.</item>
     <item id="2" isCorrect="false">Если в блоке try брошено исключение, которое обработано блоком catch.</item>
     <item id="3" isCorrect="true">Если во время исполнения блока try виртуальная машина "выполнила недопустимую операцию и будет закрыта".</item>

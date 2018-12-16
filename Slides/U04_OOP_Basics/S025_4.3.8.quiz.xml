@@ -4,6 +4,7 @@
   <markdown>Выберите верные утверждения про модификатор static.</markdown>
   <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">К полям и методам, имеющим модификатор static, можно обращаться, не создавая экземпляр содержащего их класса.</item>
     <item id="2" isCorrect="false">Поле класса, объявленное с модификатором static, — это константа, т.е. значение не может меняться.</item>
     <item id="3" isCorrect="false">Класс, объявленный с модификатором static, может иметь только статические методы.</item>

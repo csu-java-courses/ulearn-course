@@ -4,6 +4,7 @@
   <markdown>Значения каких типов могут использоваться в операторе switch?</markdown>
   <question.choice id="compileRun" multiple="true" shuffle="true" maxScore="0">
     <text>Выберите один или несколько вариантов из списка.</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">int</item>
     <item id="2" isCorrect="false">float</item>
     <item id="3" isCorrect="true">char</item>

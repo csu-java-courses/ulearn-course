@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 7" id="b5da1397-ad77-49a8-a835-29c3650f3a22">
   <scoring group="homework" passedTestsScore="0" codeReviewScore="2"/>
-  <defaultIncludeCodeFile>_Code.java</defaultIncludeCodeFile>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/csu-mk-2018/6-java-exceptions/tree/master/task07)
   </markdown>

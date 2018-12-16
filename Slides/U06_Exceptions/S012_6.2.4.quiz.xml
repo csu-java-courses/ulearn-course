@@ -18,6 +18,7 @@
   <markdown>Предположим, что во время исполнения программы в теле блока try было выброшено исключение типа java.lang.IllegalStateException. Какие блоки catch-finally будут выполнены?</markdown>
   <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="false">catch (Exception e)</item>
     <item id="2" isCorrect="false">catch (Error e)</item>
     <item id="3" isCorrect="true">finally</item>

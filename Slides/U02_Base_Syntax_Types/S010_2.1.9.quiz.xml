@@ -6,6 +6,7 @@
   <markdown>Подробно про литералы можно прочитать в [официальной документации](https://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.10).</markdown>
   <question.choice id="intsize" shuffle="true" maxScore="0">
     <text>Выберите один вариант из списка.</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">double</item>
     <item id="2" isCorrect="false">float</item>
     <item id="3" isCorrect="false">short</item>

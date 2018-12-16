@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Ввод-вывод, доступ к файловой системе" id="fb790a3c-4f1d-4fa6-b3f6-52a4a33507f7" url="IO">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>

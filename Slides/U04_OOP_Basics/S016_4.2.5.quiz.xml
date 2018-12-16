@@ -12,6 +12,7 @@ public class Example {
   <markdown>Выберите верные утверждения</markdown>
   <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="false">Можно ссылаться на класс java.math.BigDecimal по его короткому имени BigDecimal во всех исходных файлах вашей программы.</item>
     <item id="2" isCorrect="true">Можно ссылаться на класс java.math.BigDecimal по его короткому имени BigDecimal в пределах Example.java.</item>
     <item id="3" isCorrect="true">Можно ссылаться на класс java.math.BigDecimal по его полному имени BigDecimal во всех исходных файлах вашей программы.</item>

@@ -13,9 +13,10 @@ for (int i = 0; i &lt; 100; ) {
     // тело цикла
     i++;
 }
-	</code>
+  </code>
   <question.choice id="compileRun" shuffle="true" maxScore="0">
     <text>Выберите один вариант из списка.</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">Не эквивалентны, когда в теле цикла используется continue</item>
     <item id="2" isCorrect="false">Не эквивалентны, когда в теле цикла есть другой вложенный цикл</item>
     <item id="3" isCorrect="false">Всегда эквивалентны</item>

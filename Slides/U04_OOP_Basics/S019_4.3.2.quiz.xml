@@ -4,6 +4,7 @@
   <markdown>Какие модификаторы доступа применимы к классу верхнего уровня (т.е. не вложенному в другой класс)?</markdown>
   <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">отсутствие модификатора (пакетный доступ)</item>
     <item id="2" isCorrect="true">public</item>
     <item id="3" isCorrect="false">private</item>

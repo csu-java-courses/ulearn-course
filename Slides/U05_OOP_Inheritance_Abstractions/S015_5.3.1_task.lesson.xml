@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 1" id="11169cf7-c84e-4353-b558-3b3b4581e795">
   <scoring group="homework" passedTestsScore="0" codeReviewScore="4"/>
-  <defaultIncludeCodeFile>_Code.java</defaultIncludeCodeFile>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/csu-mk-2018/5-java-oop-principles/tree/master/task01)
   </markdown>

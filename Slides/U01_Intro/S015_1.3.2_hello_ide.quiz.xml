@@ -3,6 +3,7 @@
   <scoring tries="2"/>
   <question.choice id="javadoc" multiple="true" shuffle="true" maxScore="0">
     <text>Выберите из приведенных ниже комментариев те, которые являются JavaDoc-комментариями.</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">/** Is this a javadoc? */</item>
     <item id="2" isCorrect="false">/* Is this a javadoc? */</item>
     <item id="3" isCorrect="false">/*! Is this a javadoc? */</item>

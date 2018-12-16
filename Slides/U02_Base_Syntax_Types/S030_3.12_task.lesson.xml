@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 12" id="cc513f96-b576-11e8-96f8-529269fb1459">
   <scoring group="homework" passedTestsScore="0" codeReviewScore="3"/>
-  <defaultIncludeCodeFile>_Code.java</defaultIncludeCodeFile>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/csu-mk-2018/2-java-types/tree/master/task12)
   </markdown>

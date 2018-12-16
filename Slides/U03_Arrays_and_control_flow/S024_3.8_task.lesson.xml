@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 8" id="6cc68a5e-63f5-456c-bebe-a83fda9db2c5">
   <scoring group="homework" passedTestsScore="0" codeReviewScore="1"/>
-  <defaultIncludeCodeFile>_Code.java</defaultIncludeCodeFile>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/csu-mk-2018/3-java-control-flow-and-arrays/tree/master/task08)
   </markdown>

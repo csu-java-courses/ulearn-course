@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Контрольный вопрос" id="f6199f1c-7c23-4dc0-844c-e230e4f8562a">
+  <scoring tries="2"/>
+  <markdown>Какими байтами представляется символ 'Ы' в кодировке UTF-8? Введите десятичные беззнаковые значения байт через пробел, например, 10 34 254.</markdown>
+  <question.text id="ioUtf" maxScore="0">
+    <text>Введите числа через пробел</text>
+    <sample>208 171</sample>
+    <regex>208\s+171</regex>
+  </question.text>
+</slide.quiz>
+

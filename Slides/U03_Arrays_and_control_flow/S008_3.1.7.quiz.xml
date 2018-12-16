@@ -4,6 +4,7 @@
   <markdown>Выберите выражения, которые дадут в качестве результата строку A12.</markdown>
   <question.choice id="compileRun" multiple="true" shuffle="true" maxScore="0">
     <text>Выберите один или несколько вариантов из списка.</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">'A' + "12"</item>
     <item id="2" isCorrect="true">"A" + 12</item>
     <item id="3" isCorrect="false">'A' + '1' + "2"</item>

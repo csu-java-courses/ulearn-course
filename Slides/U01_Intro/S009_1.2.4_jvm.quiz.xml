@@ -3,6 +3,7 @@
   <scoring tries="2"/>
   <question.choice id="jar" multiple="true" shuffle="true" maxScore="0">
     <text>Выберите верные утверждения про формат JAR. Может быть выбрано несколько пунктов.</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">Формат JAR основан на формате ZIP.</item>
     <item id="2" isCorrect="false">В JAR-файл разрешено запаковывать только class-файлы.</item>
     <item id="3" isCorrect="true">В JAR-архиве может быть специальный файл с метаданными — META-INF/MANIFEST.MF.</item>

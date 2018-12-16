@@ -4,6 +4,7 @@
   <markdown>Допустим, вы пишете класс Example в пакете com.example.java. Классы из каких пакетов вы можете использовать в классе Example по их коротким именам без явного import'а?</markdown>
   <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="false">java.util</item>
     <item id="2" isCorrect="false">пакет по умолчанию</item>
     <item id="3" isCorrect="false">все подпакеты org.stepic.java.example</item>

@@ -4,6 +4,7 @@
   <markdown>Где может использоваться модификатор final?</markdown>
   <question.choice id="compileRun" shuffle="true" multiple="true" maxScore="0">
     <text>Тест — Выберите один или несколько вариантов из списка</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">В объявлении метода.</item>
     <item id="2" isCorrect="true">В объявлении параметра метода.</item>
     <item id="3" isCorrect="true">В объявлении статического поля класса.</item>

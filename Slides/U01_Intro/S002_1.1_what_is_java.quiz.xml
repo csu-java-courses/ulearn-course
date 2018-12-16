@@ -3,12 +3,14 @@
   <scoring tries="2"/>
   <question.choice id="writeOnce" multiple="false" shuffle="true" maxScore="0">
     <text>Что означает декларируемый Java принцип "Write once, run anywhere" ?</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">Скомпилированная Java-программа может быть запущена на любой платформе, где есть JVM.</item>
     <item id="2" isCorrect="false">Java-программа может быть скомпилирована в исполняемый файл под любую платформу.</item>
     <item id="3" isCorrect="false">Java-программа может быть запущена из исходников на любой платформе, где есть интерпретатор Java.</item>
   </question.choice>
   <question.choice id="bytecode" multiple="false" shuffle="true" maxScore="0">
     <text>Как называется двоичный формат, который понимает виртуальная машина Java?</text>
+    <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
     <item id="1" isCorrect="true">Bytecode (байткод)</item>
     <item id="2" isCorrect="false">Virtual code (виртуальный код)</item>
     <item id="3" isCorrect="false">Intermediate language (промежуточный язык)</item>
