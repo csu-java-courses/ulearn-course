@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide xmlns="https://ulearn.me/schema/v2" title="Задача 1" id="cc512ad8-b576-11e8-96f8-529269fb1459">
   <markdown>
-    Склонируйте [репозиторий](https://github.com/csu-mk-2018/2-java-types) в IntelliJ Idea или воспользуйтесь инструментами командной строки
+    Склонируйте [репозиторий](https://github.com/ulearn-me-course-java/2-java-types) в IntelliJ Idea или воспользуйтесь инструментами командной строки
 
     Задача 1 не оценивается баллами, а создана для того, чтобы вы попрактиковались в оформлении задач.
 
-    [Описание задачи](https://github.com/csu-mk-2018/2-java-types/tree/master/task01)
+    [Описание задачи](https://github.com/ulearn-me-course-java/2-java-types/tree/master/task01)
   </markdown>
 </slide>
