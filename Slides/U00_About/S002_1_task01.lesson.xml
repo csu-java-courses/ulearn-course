@@ -3,14 +3,14 @@
   <scoring group="homework" passedTestsScore="0" codeReviewScore="5"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
-    Склонируйте [репозиторий](https://github.com/csu-mk-2018/1-java-intro) в IntelliJ Idea или воспользуйтесь инструментами командной строки
+    Склонируйте [репозиторий](https://github.com/ulearn-me-course-java/1-java-intro) в IntelliJ Idea или воспользуйтесь инструментами командной строки
 
     Выполните задачу и отправьте ссылку на pull request для проверки.
 
-    [Описание задачи](https://github.com/csu-mk-2018/1-java-intro/tree/master/task01)
+    [Описание задачи](https://github.com/ulearn-me-course-java/1-java-intro/tree/master/task01)
   </markdown>
   <exercise.file>
-    <initialCode>https://github.com/csu-mk-2018</initialCode>
+    <initialCode>https://github.com/ulearn-me-course-java/1-java-intro</initialCode>
     <hideExpectedOutput>true</hideExpectedOutput>
     <max-review-attempts>3</max-review-attempts>
     <hint>Используйте функцию гитхаба New pull request</hint>
