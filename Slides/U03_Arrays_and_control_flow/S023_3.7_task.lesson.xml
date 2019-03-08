@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 7" id="eab51c07-35f3-49f0-ace5-93845d87d601">
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 3.7" id="eab51c07-35f3-49f0-ace5-93845d87d601">
   <scoring group="homework" passedTestsScore="0" codeReviewScore="1"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
