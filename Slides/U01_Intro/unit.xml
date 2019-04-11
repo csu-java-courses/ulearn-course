@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<unit xmlns="https://ulearn.me/schema/v2" title="Введение в Java" id="c0618284-8d55-4bbf-bd8a-4f911cc545f2" url="Intro">
+<unit xmlns="https://ulearn.me/schema/v2" title="1. Введение в Java" id="c0618284-8d55-4bbf-bd8a-4f911cc545f2" url="Intro">
   <slides>
     <add>S*.xml</add>
   </slides>

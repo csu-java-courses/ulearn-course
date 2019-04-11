@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<unit xmlns="https://ulearn.me/schema/v2" title="Базовый синтаксис. Типы" id="cc5112c8-b576-11e8-96f8-529269fb1459" url="Types">
+<unit xmlns="https://ulearn.me/schema/v2" title="2. Базовый синтаксис. Типы" id="cc5112c8-b576-11e8-96f8-529269fb1459" url="Types">
   <slides>
     <add>S*.xml</add>
   </slides>

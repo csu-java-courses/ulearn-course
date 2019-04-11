@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<unit xmlns="https://ulearn.me/schema/v2" title="Тестирование, JUnit" id="a1d67bf9-5e82-4c5a-96eb-5a31507806dc" url="Tests">
+<unit xmlns="https://ulearn.me/schema/v2" title="9. Тестирование, JUnit" id="a1d67bf9-5e82-4c5a-96eb-5a31507806dc" url="Tests">
   <slides>
     <add>S*.xml</add>
   </slides>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<unit xmlns="https://ulearn.me/schema/v2" title="Обработка ошибок, исключения, отладка" id="1d77bb39-8036-47e8-a08c-47cb3c776a45" url="Exceptions">
+<unit xmlns="https://ulearn.me/schema/v2" title="6. Обработка ошибок, исключения, отладка" id="1d77bb39-8036-47e8-a08c-47cb3c776a45" url="Exceptions">
   <slides>
     <add>S*.xml</add>
   </slides>
