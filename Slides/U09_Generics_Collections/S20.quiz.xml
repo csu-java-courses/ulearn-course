@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Контрольный вопрос" id="2149ef2a-fd58-4aa3-a6da-dcad8185f984">
+    <scoring tries="3"/>
+    <markdown>
+        В следующей программе
+    </markdown>
+    <code>
+        Set&lt;String&gt; set = new LinkedHashSet&lt;&gt;();
+        // add some elements to the set
+        Iterator&lt;String&gt; iterator = set.iterator();
+    </code>
+    <markdown>
+        в каком порядке iterator будет возвращать элементы множества?
+    </markdown>
+    <question.choice id="collectionIterator" multiple="false" shuffle="true" maxScore="0">
+        <text>Выберите один вариант из списка.</text>
+        <allowedMistakes checkedUnnecessary="0" notCheckedNecessary="0" />
+        <item id="1" isCorrect="false">В лексикографическом порядке</item>
+        <item id="2" isCorrect="false">В непредсказуемом порядке, основанном на хеш-кодах строк</item>
+        <item id="3" isCorrect="true">В порядке добавления</item>
+        <item id="4" isCorrect="false">В обратном лексикографическом порядке</item>
+    </question.choice>
+</slide.quiz>

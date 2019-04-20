@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<unit xmlns="https://ulearn.me/schema/v2" title="9. Обобщения. Коллекции" id="fd736c12-930a-45e9-b5a3-79d325d35969" url="GenericsCollections">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>

@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<unit xmlns="https://ulearn.me/schema/v2" title="9. Многопоточность" id="b94bd4d3-52e4-4d04-8ca7-1d3d6149ef5d" url="Concurrency">
-  <slides>
-    <add>S*.xml</add>
-  </slides>
-</unit>
