@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.quiz xmlns="https://ulearn.me/schema/v2" title="Контрольный вопрос" id="d1ab0674-1534-4301-8b2d-14be4db49a29">
+    <scoring tries="3"/>
+    <markdown>
+        Найдите в пакете java.util.function интерфейс, чей абстрактный метод принимает два параметра — объект и примитивный double — и ничего не возвращает.
+
+        В качестве ответа введите имя этого функционального интерфейса с пакетом или без. Угловые скобки с именами generic-параметров вводить не нужно.
+    </markdown>
+
+    <question.text id="funcDouble" maxScore="0">
+        <text>Введите имя класса</text>
+        <regex>ObjDoubleConsumer</regex>
+    </question.text>
+</slide.quiz>
+
