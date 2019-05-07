@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 10.1" id="21b1e95e-4c98-4f74-81e8-67c58a956e86">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="2"/>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
+  <markdown>
+    [Описание задачи](https://github.com/ulearn-me-course-java/10-java-functional-stream/tree/master/task01)
+  </markdown>
+  <exercise.file>
+    <initialCode>вставьте ссылку на Pull Request</initialCode>
+    <hideExpectedOutput>true</hideExpectedOutput>
+    <max-review-attempts>3</max-review-attempts>
+    <hint>Используйте функцию гитхаба New pull request</hint>
+    <comment>Принято</comment>
+    <expected>github.com</expected>
+    <solution>Main</solution>
+  </exercise.file>
+</slide.exercise>
