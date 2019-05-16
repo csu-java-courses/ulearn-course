@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Практика" id="dea591cd-5826-4bf1-b8eb-bf6ad65e6367" url="Practice">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>
