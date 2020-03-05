@@ -12,7 +12,6 @@
   <exercise.file>
     <initialCode>https://github.com/ulearn-me-course-java/1-java-intro</initialCode>
     <hideExpectedOutput>true</hideExpectedOutput>
-    <max-review-attempts>3</max-review-attempts>
     <hint>Используйте функцию гитхаба New pull request</hint>
     <comment>Принято</comment>
     <expected>github.com</expected>
