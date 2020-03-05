@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<unit xmlns="https://ulearn.me/schema/v2" title="11. Многопоточность" id="116ad214-4275-4fe0-b474-d4ad2b9fcf19" url="Multithreading">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 11.1" id="00657c13-c32a-46ae-84f5-b7bfffa965da">
+    <scoring group="homework" passedTestsScore="0" codeReviewScore="10"/>
+    <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
+    <markdown>
+        ###Задание:
+
+        Протестируйте одно из веб-приложений на Spring, написанное вами в этом курсе.
+
+        1. Напишите 2 интеграционных теста, проверяющих взаимодействие контролера, сервиса и БД.
+
+        2. Напишите 5 юнит-тестов для сервиса, используя моки и заглушки.
+
+        Выложите код приожения с тестами на github и вставьте в поле ссылку на него.
+
+    </markdown>
+    <exercise.file>
+        <initialCode>https://github.com/username/javatech111</initialCode>
+        <hideExpectedOutput>true</hideExpectedOutput>
+        <comment>Принято</comment>
+        <expected>github.com</expected>
+        <solution>Main</solution>
+    </exercise.file>
+</slide.exercise>

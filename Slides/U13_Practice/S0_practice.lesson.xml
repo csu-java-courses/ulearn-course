@@ -3,12 +3,12 @@
   <scoring group="homework" passedTestsScore="0" codeReviewScore="100"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
-    [Описание задач](https://github.com/ulearn-me-course-java/practice)
+    [Описания задач](https://github.com/ulearn-me-course-java/practice)
 
-    Выберите дополнительные задачи и оформите решения в виде репозиториев на github.
+    Согласуйте семестровое задание с преподавателем и оформите решение в виде репозитория на github.
   </markdown>
   <exercise.file>
-    <initialCode>Вставьте сюда ссылки на репозитории с решенными задачами</initialCode>
+    <initialCode>Вставьте сюда ссылку на репозиторий с семестровым</initialCode>
     <hideExpectedOutput>true</hideExpectedOutput>
     <hint>Используйте функцию гитхаба New pull request</hint>
     <comment>Принято</comment>
