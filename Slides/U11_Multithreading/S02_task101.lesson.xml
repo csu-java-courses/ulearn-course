@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 10.1" id="22775cad-22e5-4034-83ba-8f9f9f2e3195">
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 11.1" id="22775cad-22e5-4034-83ba-8f9f9f2e3195">
     <scoring group="homework" passedTestsScore="0" codeReviewScore="10"/>
     <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
     <markdown>
@@ -11,7 +11,7 @@
 
         **Убедитесь, что потоки работают параллельно и блокируют друг друга минимально возможное время.**
 
-        Выложите исправленный код на github и вставьте в поле ссылку на него.
+        Выложите исправленный код на github отдельным репозиторием и вставьте в поле ссылку на него.
 
         <code language="java">
             public class Lucky {
