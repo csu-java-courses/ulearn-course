@@ -8,5 +8,6 @@
   </units>
   <scoring defaultQuiz="homework" defaultExercise="homework" default="homework">
     <group id="homework" abbr="ДЗ" maxAdditionalScore="0">Домашняя работа</group>
+    <group id="Bonus" abbr="Доп" maxAdditionalScore="5">Дополнительные баллы</group>
   </scoring>
 </course>
