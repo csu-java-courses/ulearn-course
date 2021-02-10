@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 3.2" id="77996757-3e31-4434-ad9b-d8aed853be63">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="1"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="2"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/ulearn-me-course-java/3-java-control-flow-and-arrays/tree/master/task02)

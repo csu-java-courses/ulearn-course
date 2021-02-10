@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 9.3" id="c1046c14-0ecf-44c1-8feb-4140206cd569">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="10"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="20"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/ulearn-me-course-java/9-java-generics-collections/tree/master/task03)

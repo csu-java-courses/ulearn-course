@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 4.3" id="deac911b-d45e-437b-a682-8dae9c18d829">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="4"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="8"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/ulearn-me-course-java/4-java-oop-basic/tree/master/task03)

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 10.5" id="3f666444-4b42-4e07-8059-8c85cd480b53">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="7"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="14"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/ulearn-me-course-java/10-java-functional-stream/tree/master/task05)

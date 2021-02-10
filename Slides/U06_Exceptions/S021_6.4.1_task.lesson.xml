@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 6.1" id="62b29e08-b888-46a8-a6f9-b44212b81232">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="1"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="2"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описание задачи](https://github.com/ulearn-me-course-java/6-java-exceptions/tree/master/task01)
