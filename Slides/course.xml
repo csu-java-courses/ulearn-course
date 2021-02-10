@@ -6,8 +6,9 @@
   <units>
     <add>*/unit.xml</add>
   </units>
-  <scoring defaultQuiz="homework" defaultExercise="homework" default="homework">
-    <group id="homework" abbr="ДЗ" maxAdditionalScore="0">Домашняя работа</group>
-    <group id="Bonus" abbr="Доп" maxAdditionalScore="5">Дополнительные баллы</group>
+  <scoring defaultQuiz="1homework" defaultExercise="1homework" default="1homework">
+    <group id="0Quiz" abbr="Опрос" maxAdditionalScore="5">Баллы за опрос</group>
+    <group id="1homework" abbr="ДЗ" maxAdditionalScore="0">Домашняя работа</group>
+    <group id="2Bonus" abbr="Доп" maxAdditionalScore="5">Дополнительные баллы</group>
   </scoring>
 </course>
