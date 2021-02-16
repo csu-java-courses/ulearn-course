@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача" id="cc5a3f97-02ef-4b5e-8946-c8bab6cca44c">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
+  <markdown>
+    Дана последовательность из 8 цифр. Нужно расставить между ними знаки арифметических операций так,
+    чтобы получилось число 100.
+
+    Возможные операции: + - * /
+
+    Пример: 98765432
+
+    Результат:
+
+    ```
+    98+7+6-5-4*3/2=100
+    98+7-6-5+4*3/2=100
+    98+7-6*5/4/3*2=100
+    98+7*6+5-43-2=100
+    98+7*6-5/4*32=100
+    ...
+    ```
+  </markdown>
+  <exercise.file>
+    <initialCode>вставьте ссылку на репозиторий</initialCode>
+    <hideExpectedOutput>true</hideExpectedOutput>
+    <comment>Принято</comment>
+    <expected>github.com</expected>
+    <solution>Main</solution>
+  </exercise.file>
+</slide.exercise>
