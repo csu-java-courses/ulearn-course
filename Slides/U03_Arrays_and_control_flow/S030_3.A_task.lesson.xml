@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача (3)" id="bf4c60bc-314d-4129-bc61-721cdabce85c">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
+  <markdown>
+    Дан массив, представляющий собой квадратную карту.
+    Нужно реализовать функцию, возвращающую новый массив с этой картой, в котором
+    заполнен путь от начала пути до конца пути, отмеченных на карте.
+
+    Путь прокладывать можно только по горизонтали и вертикали, но не по диагонали.
+
+
+    Отметки:
+    - "#" - стена
+    - "." - проход
+    - "s" - начало пути
+    - "f" - конец пути
+    - "*" - путь
+
+    Пример:
+
+    ```
+    #s###
+    #...#
+    ..#.#
+    .#..#
+    ###.f
+    ```
+
+    Результат:
+
+    ```
+    #s###
+    #***#
+    ..#*#
+    .#.*#
+    ###*f
+    ```
+
+  </markdown>
+  <exercise.file>
+    <initialCode>вставьте ссылку на репозиторий</initialCode>
+    <hideExpectedOutput>true</hideExpectedOutput>
+    <comment>Принято</comment>
+    <expected>github.com</expected>
+    <solution>Main</solution>
+  </exercise.file>
+</slide.exercise>
