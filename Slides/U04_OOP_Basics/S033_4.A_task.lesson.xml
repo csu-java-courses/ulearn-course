@@ -118,8 +118,9 @@
                 )
         );
 
-        char[][] result = new char[frame.getWidth()][frame.getHeight()];
         frame.calculate();
+
+        char[][] result = new char[frame.getWidth()][frame.getHeight()];
         frame.draw(result);
         print(result);
     </code>
