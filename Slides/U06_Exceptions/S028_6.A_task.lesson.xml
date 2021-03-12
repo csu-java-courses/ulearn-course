@@ -48,7 +48,7 @@
     <code>
         java.lang.IllegalStateException: cannot perform operation
             at com.example.Main.run(Main.java:13)
-            at <Thread.start>()
+            at &lt;Thread.start&gt;()
             at com.example.Main.execute(Main.java:18)
             at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
             at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
