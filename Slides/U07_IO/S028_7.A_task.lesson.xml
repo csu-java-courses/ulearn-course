@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача (7)" id="10c815bc-a4ef-418d-a750-da2b54b20af9">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
+  <markdown>
+    Напишите систему контроля версий файлов.
+
+      Требуемые функции:
+
+      - init - Инициализация репозитория в текущем каталоге, создает пустой файл для хранения данных (все данные системы контроля версий хранятся в одном файле, например myvcs.dat)
+      - commit - Сохранение текущего состояния файлов в новой ревизии, выдает номер новой ревизии
+      - status - Просмотр измененных файлов с момента сохранения последней ревизии, выдает список созданных, удаленных и измененных файлов
+      - log - Просмотр всей истории ревизий, выдает список всех ревизий, время их создания, количество файлов, комментарии
+      - diff - Просмотр изменений файлов между указанными ревизиями (не обязательно соседними), принимает номер начальной и конечной ревизии, выдает необходимые изменения в файлах для перехода от начальной к конечной ревизии
+      - checkout - Откат состояния всех файлов в каталоге к указанной ревизии, выдает список произведенных изменений
+
+      Если файл не изменялся со времени прошлой ревизии, при создании новой ревизии он не должен добавляться в файл системы контроля версий повторно.
+
+      Все пустые подкаталоги должны автоматически удаляться.
+
+      Пример выполнения команд системы контроля версий:
+    <code>
+        # myvcs init
+        Initialized
+
+        # echo "ABC" > file1.txt  -- Это создание файла file1.txt
+        # echo "12345" > file2.txt  -- Это создание файла file2.txt
+
+        # myvcs commit -m "comment1"
+        Created revision 1
+
+        # myvcs log
+        Revision 1
+        Date: 12:22:01 19.03.2021
+        Files: 2
+        Comment: comment1
+
+        # rm file1.txt  -- Это удаление файла file1.txt
+        # echo "QWERTY1" > file2.txt  -- Это изменение файла file2.txt
+        # echo "QWERTY2" > file3.txt  -- Это создание файла file3.txt
+
+        # myvcs status
+        Current revision: 1
+        Created:
+        + file3.txt (7 bytes)
+        Deleted:
+        - file1.txt
+        Modified:
+        * file2.txt (7 bytes)
+
+        # myvcs commit -m "comment2"
+        Created revision 2
+
+        # myvcs status
+        Current revision: 2
+        No changes
+
+        # myvcs log
+        Revision 1
+        Date: 12:22:01 19.03.2021
+        Files: 2
+        Comment: comment1
+
+        Revision 2
+        Date: 12:25:05 19.03.2021
+        Files: 2
+        Comment: comment2
+
+        # myvcs diff 1 2
+        Created:
+        + file3.txt (7 bytes)
+        Deleted:
+        - file1.txt
+        Modified:
+        * file2.txt (7 bytes)
+
+        # echo "QWERTY4" > file4.txt  -- Это создание файла file4.txt
+
+        # myvcs checkout 1
+        Created:
+        + file1.txt (3 bytes)
+        Deleted:
+        - file3.txt
+        - file4.txt
+        Modified:
+        * file2.txt (5 bytes)
+
+    </code>
+
+  </markdown>
+  <exercise.file>
+    <initialCode>вставьте ссылку на репозиторий</initialCode>
+    <hideExpectedOutput>true</hideExpectedOutput>
+    <comment>Принято</comment>
+    <expected>github.com</expected>
+    <solution>Main</solution>
+  </exercise.file>
+</slide.exercise>
