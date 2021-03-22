@@ -5,6 +5,8 @@
   <markdown>
     Напишите систему контроля версий файлов.
 
+      При каждом запуске приложение должно принимать аргументы через коммандную строку, выполнять заданную функцию и завершаться.
+
       Требуемые функции:
 
       - init - Инициализация репозитория в текущем каталоге, создает пустой файл для хранения данных (все данные системы контроля версий хранятся в одном файле, например myvcs.dat)
@@ -20,16 +22,16 @@
 
       Пример выполнения команд системы контроля версий:
     <code>
-        # myvcs init
+        # java -jar myvcs.jar init
         Initialized
 
         # echo "ABC" > file1.txt  -- Это создание файла file1.txt
         # echo "12345" > file2.txt  -- Это создание файла file2.txt
 
-        # myvcs commit -m "comment1"
+        # java -jar myvcs.jar commit -m "comment1"
         Created revision 1
 
-        # myvcs log
+        # java -jar myvcs.jar log
         Revision 1
         Date: 12:22:01 19.03.2021
         Files: 2
@@ -39,7 +41,7 @@
         # echo "QWERTY1" > file2.txt  -- Это изменение файла file2.txt
         # echo "QWERTY2" > file3.txt  -- Это создание файла file3.txt
 
-        # myvcs status
+        # java -jar myvcs.jar status
         Current revision: 1
         Created:
         + file3.txt (7 bytes)
@@ -48,14 +50,14 @@
         Modified:
         * file2.txt (7 bytes)
 
-        # myvcs commit -m "comment2"
+        # java -jar myvcs.jar commit -m "comment2"
         Created revision 2
 
-        # myvcs status
+        # java -jar myvcs.jar status
         Current revision: 2
         No changes
 
-        # myvcs log
+        # java -jar myvcs.jar log
         Revision 1
         Date: 12:22:01 19.03.2021
         Files: 2
@@ -66,7 +68,7 @@
         Files: 2
         Comment: comment2
 
-        # myvcs diff 1 2
+        # java -jar myvcs.jar diff 1 2
         Created:
         + file3.txt (7 bytes)
         Deleted:
@@ -76,7 +78,7 @@
 
         # echo "QWERTY4" > file4.txt  -- Это создание файла file4.txt
 
-        # myvcs checkout 1
+        # java -jar myvcs.jar checkout 1
         Created:
         + file1.txt (3 bytes)
         Deleted:
