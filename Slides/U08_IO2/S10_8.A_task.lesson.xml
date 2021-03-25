@@ -3,7 +3,7 @@
   <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
-    Удаленное выполнение команд.
+    ## Удаленное выполнение команд.
 
       При запуске приложение слушает сетевой порт 1111, к которому можно подключиться tcp-клиентом (например командой telnet).
 
