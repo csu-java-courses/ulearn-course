@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача (9)" id="063bd20f-5c96-4306-9441-8f2d7aea2ece">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
+  <markdown>
+    Реализуйте обобщенный класс Operator для выполнения операций над коллекциями.
+
+      Необходимые функции:
+
+      - modify - статический, принимает исходную коллекцию и оборачивает ее в Operator
+      - add - добавляет переданный элемент в коллекцию
+      - add - добавляет все элементы переданной коллекции в коллекцию
+      - remove - удаляет элементы коллекции согласно переданному предикату
+      - sort - сортирует элементы коллекции
+      - each - передает все элементы коллекции потребителю
+      - copyTo - копирует все элементы коллекции в новую
+      - convertTo - преобразует каждый элемент коллекции и копирует результаты в новую
+      - get - возвращает результат
+
+      Класс должен компилироваться без предупреждений "Unchecked cast" или аналогичных.
+
+      Код, использующий класс Operator:
+    <code language="java">
+
+        ArrayList&lt;String&gt; list1 = new ArrayList&lt;&gt;(List.of("abc", "de", "f"));
+        ArrayList&lt;String&gt; result1 = Operator.modify(list1).add("1234").add(list1).add("zzzzz").get();
+        System.out.println(result1);
+        // [abc, de, f, 1234, abc, de, f, 1234, zzzzz]
+
+        LinkedHashSet&lt;Integer&gt; set1 = new LinkedHashSet&lt;&gt;(Set.of(12345, 23456, 34567, 45678, 56789));
+        Consumer&lt;Object&gt; print = System.out::print;
+        Comparator&lt;Number&gt; compareNumbers = Comparator.comparingDouble(Number::doubleValue);
+        Predicate&lt;Number&gt; greaterThan30000 = i -&gt; compareNumbers.compare(i, 30000) &gt; 0;
+        LinkedHashSet&lt;Integer&gt; result2 = Operator.modify(set1).remove(greaterThan30000).add(99999).get();
+        System.out.println(result2);
+        // [12345, 23456, 99999]
+
+        ArrayList&lt;Integer&gt; list2 = Operator.modify(set1).copyTo(ArrayList::new).get();
+        Operator.modify(list2).sort(compareNumbers.reversed()).convertTo(LinkedList::new, x -&gt; x / 1000).each(print);
+        System.out.println();
+        // 992312
+
+        ArrayList&lt;String&gt; result3 = Operator.modify(result1).remove(s -&gt; s.equals("f")).sort(Comparator.naturalOrder()).get();
+        System.out.println(result3);
+        // [1234, 1234, abc, abc, de, de, zzzzz]
+
+        TreeSet&lt;Integer&gt; result4 = Operator.modify(result3).convertTo(TreeSet::new, String::length).add(Set.of(888, 999)).get();
+        System.out.println(result4);
+        // [2, 3, 4, 5, 888, 999]
+
+        Set&lt;Integer&gt; s1 = new HashSet&lt;&gt;(Set.of(1, 2, 3));
+        Set&lt;Integer&gt; s2 = new HashSet&lt;&gt;(Set.of(2, 3, 4));
+        HashSet&lt;Set&lt;Integer&gt;&gt; sets = new HashSet&lt;&gt;(Set.of(s1, s2));
+        LinkedList&lt;Set&lt;Integer&gt;&gt; result5 = Operator.modify(sets).each(set -&gt; set.remove(2)).copyTo(LinkedList::new).get();
+        System.out.println(result5);
+        // [[1, 3], [3, 4]]
+
+
+    </code>
+
+      Результат выполнения:
+    <code>
+        [abc, de, f, 1234, abc, de, f, 1234, zzzzz]
+        [12345, 23456, 99999]
+        992312
+        [1234, 1234, abc, abc, de, de, zzzzz]
+        [2, 3, 4, 5, 888, 999]
+        [[1, 3], [3, 4]]
+    </code>
+
+  </markdown>
+  <exercise.file>
+    <initialCode>вставьте ссылку на репозиторий</initialCode>
+    <hideExpectedOutput>true</hideExpectedOutput>
+    <comment>Принято</comment>
+    <expected>github.com</expected>
+    <solution>Main</solution>
+  </exercise.file>
+</slide.exercise>
