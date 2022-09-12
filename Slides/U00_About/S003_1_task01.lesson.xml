@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 1.1" id="cc50fdce-b576-11e8-96f8-529269fb1459">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="10"/>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Пробная задача" id="cc50fdce-b576-11e8-96f8-529269fb1459">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     Склонируйте [репозиторий](https://github.com/ulearn-me-course-java/1-java-intro) в IntelliJ IDEA или воспользуйтесь инструментами командной строки
