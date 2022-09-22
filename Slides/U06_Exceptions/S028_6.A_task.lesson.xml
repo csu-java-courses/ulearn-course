@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача (6)" id="a3545106-c830-440d-b43c-b06058b503e5">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     Дана программа, завершающаяся ошибкой:

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача (9)" id="063bd20f-5c96-4306-9441-8f2d7aea2ece">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     Реализуйте обобщенный класс Operator для выполнения операций над коллекциями.

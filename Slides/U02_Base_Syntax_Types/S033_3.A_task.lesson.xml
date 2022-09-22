@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача (2)" id="cc5a3f97-02ef-4b5e-8946-c8bab6cca44c">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     Дана последовательность из 8 цифр. Нужно расставить между ними знаки арифметических операций так,

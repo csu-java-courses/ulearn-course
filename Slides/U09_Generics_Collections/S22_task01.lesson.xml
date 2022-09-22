@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 9.1" id="a2c4bc3c-b0f0-404b-934d-2a2e768fd0de">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="8"/>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задачи 9.1 - 9.3" id="a2c4bc3c-b0f0-404b-934d-2a2e768fd0de">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
-    [Описание задачи](https://github.com/ulearn-me-course-java/9-java-generics-collections/tree/master/task01)
+    [Задачи 9.1 - 9.3](https://github.com/ulearn-me-course-java/9-java-generics-collections/)
   </markdown>
   <exercise.file>
     <initialCode>вставьте ссылку на Pull Request</initialCode>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача (10)" id="c5e4b77e-4769-4f60-9e3e-cea6597ec1a2">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     Напишите функцию, добавляющий набор текстовых файлов в поисковый индекс.

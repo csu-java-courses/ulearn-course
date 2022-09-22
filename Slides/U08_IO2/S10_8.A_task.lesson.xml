@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="* Альтернативная задача (8)" id="07b72d38-76d2-4002-920b-44acbe0a0b16">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="40"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     ## Удаленное выполнение команд.

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 8.1" id="f934d536-8772-4cb5-9d93-4adabe53424c">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="20"/>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задачи 8.1 - 8.3" id="f934d536-8772-4cb5-9d93-4adabe53424c">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
-    [Описание задачи](https://github.com/ulearn-me-course-java/8-java-io2/tree/master/task01)
+    [Задачи 8.1 - 8.3](https://github.com/ulearn-me-course-java/8-java-io2/)
   </markdown>
   <exercise.file>
     <initialCode>вставьте ссылку на Pull Request</initialCode>
