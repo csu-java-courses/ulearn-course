@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <slide.exercise xmlns="https://ulearn.me/schema/v2" title="Дополнительные задания" id="cc434fb7-086c-4fe0-9748-13faadc321eb">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="0" maxAdditionalScore="300"/>
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="300"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
     [Описания задач](https://github.com/ulearn-me-course-java/practice)
