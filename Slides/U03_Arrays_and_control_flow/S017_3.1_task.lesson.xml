@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задача 3.1" id="5051af29-febb-4a9b-8311-47a8c5dc42de">
-  <scoring group="homework" passedTestsScore="0" codeReviewScore="2"/>
+<slide.exercise xmlns="https://ulearn.me/schema/v2" title="Задачи 3.1 - 3.13" id="5051af29-febb-4a9b-8311-47a8c5dc42de">
+  <scoring group="homework" passedTestsScore="0" codeReviewScore="0"/>
   <defaultIncludeCodeFile>../_Code.java</defaultIncludeCodeFile>
   <markdown>
-    [Описание задачи](https://github.com/ulearn-me-course-java/3-java-control-flow-and-arrays/tree/master/task01)
+    [Задачи 3.1 - 3.13](https://github.com/ulearn-me-course-java/3-java-control-flow-and-arrays/)
   </markdown>
   <exercise.file>
     <initialCode>вставьте ссылку на Pull Request</initialCode>
