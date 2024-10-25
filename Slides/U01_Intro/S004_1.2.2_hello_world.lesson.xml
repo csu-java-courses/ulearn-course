@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <slide xmlns="https://ulearn.me/schema/v2" title="1.2.2  Компилируем и запускаем Hello World" id="27c42b92-23f8-4be0-a152-f7261f53af2e">
   <markdown>
 
@@ -11,5 +11,5 @@
 
         При установке JDK отметьте пункт Source Code, чтобы были установлены исходники классов стандартной библиотеки. Удобно иметь их под рукой, чтобы заглядывать при необходимости.
     </markdown>
-  <youtube>9sWQ7ZYGxs8</youtube>
+  <youtube vkOid="-9594364" vkId="456239884">9sWQ7ZYGxs8</youtube>
 </slide>
